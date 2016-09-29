@@ -1,11 +1,10 @@
-﻿using System;
-using Xunit;
+﻿using Xunit;
 using Patterns.Singleton;
 
 
 namespace Tests
 {
-    public class Tests
+    public class SingletonTests
     {
         [Fact]
         public void HighlanderAreSame()
