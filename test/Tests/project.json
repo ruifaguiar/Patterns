@@ -9,7 +9,8 @@
     "dotnet-test-xunit": "1.0.0-rc2-192208-24",
     "Singleton":"1.0.0-*",
     "Proxy":"1.0.0-*",
-    "Prototype":"1.0.0-*"
+    "Prototype":"1.0.0-*",
+    "Strategy":"1.0.0-*"
 
   },
   "testRunner": "xunit",
